@@ -1,6 +1,5 @@
 ### Hi there 👋
  - 🔭 I’m currently working on MEAN stack technology
- - 🌱 I’m currently learning React
  
 ![My github](https://github-readme-stats.vercel.app/api?username=AkashBawa&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
 <br />
