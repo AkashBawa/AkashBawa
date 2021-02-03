@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashBawa&repo=WaterWare&theme=midnight-purple)](https://github.com/AkashBawa/quiz-app-client)
 <br >
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashBawa&repo=Clickhit&theme=midnight-purple)](https://github.com/ShivamPrajapati-dev/Clickhit)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashBawa&repo=Clickhit&theme=midnight-purple)](https://github.com/AkashBawa/Clickhit)
 <br >
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashBawa&repo=StudyHard&theme=midnight-purple)](https://github.com/ShivamPrajapati-dev/StudyHard)
 
