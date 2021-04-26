@@ -1,5 +1,5 @@
 ### Hi there 👋
- - 🔭 I’m currently working on MEAN stack technology
+ - 🔭 I’m currently working on MEAN and MERN stack technology
  - 🌱 I’m currently learning React
  - 📫 Do my problem solving in c++
  
