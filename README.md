@@ -2,9 +2,7 @@
  - 🔭 I’m currently working on MEAN and MERN stack technology
  - 🌱 I learn competitive programming from Hacker rank.
  - 📫 Do my problem solving in c++
- 
-![My github](https://github-readme-stats.vercel.app/api?username=AkashBawa&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
-<br />
+ <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBawa&layout=compact&theme=omni&card_width=445)](https://github.com/AkashBawa)
 <br >
 
